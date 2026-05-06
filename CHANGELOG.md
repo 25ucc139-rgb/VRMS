@@ -1,0 +1,58 @@
+- **2026-05-11**: chore: scaffold SwipeDAO monorepo with backend, contracts, and frontend
+- **2026-05-12**: feat(config): configure environment variables and build pipelines
+- **2026-05-18**: feat(contracts): design SwipeDAO escrow and milestone payment contract
+- **2026-05-20**: feat(contracts): implement gig deposit lockup and client release logic
+- **2026-05-22**: feat(contracts): add decentralized dispute arbitration mechanism
+- **2026-05-25**: test(contracts): write hardhat tests for escrow funds safety and release
+- **2026-05-27**: test(contracts): verify dispute resolution voting and stake slashing
+- **2026-05-28**: feat(backend): initialize express REST API with typescript and routes
+- **2026-06-01**: feat(backend): configure PostgreSQL schema with Prisma ORM
+- **2026-06-09**: feat(auth): implement web3 wallet signature authentication and JWT tokens
+- **2026-06-17**: feat(auth): add Google OAuth login integration for dual-role users
+- **2026-06-19**: feat(frontend): setup modern next.js / react application framework
+- **2026-06-20**: feat(ui): design role selection onboarding (Client vs Freelancer)
+- **2026-06-21**: feat(ui): build revolutionary swipeable gig card stack with framer-motion
+- **2026-06-22**: feat(ui): add smooth gesture controls: Swipe right to apply, left to pass
+- **2026-06-24**: feat(ui): design freelancer talent profile card with portfolio showcase
+- **2026-06-24**: feat(backend): add gig recommendation algorithm based on skill tags
+- **2026-06-28**: feat(chat): implement real-time encrypted messaging between client and talent
+- **2026-06-30**: test(backend): add integration tests for gig posting and matching pipeline
+- **2026-07-06**: docs: publish SwipeDAO autonomous gig economy whitepaper and roadmap
+- **2026-07-09**: feat(escrow): integrate smart contract milestone locking into gig checkout
+- **2026-07-10**: feat(ui): build interactive milestone tracker with delivery submission
+- **2026-07-10**: feat(ui): add file attachment upload with IPFS distributed storage
+- **2026-07-15**: fix(contracts): ensure strict reentrancy prevention in escrow payouts
+- **2026-07-17**: feat(backend): implement reputation scoring and on-chain badge minting
+- **2026-07-21**: style(ui): apply sleek Web3 dark aesthetic with vibrant gradient accents
+- **2026-07-26**: feat(ui): add comprehensive settings manual and platform user guide
+- **2026-08-01**: feat(auth): add secure wallet disconnect and session logout handlers
+- **2026-08-02**: test: add end-to-end tests for full gig lifecycle from match to payment
+- **2026-08-15**: ci: configure GitHub Actions workflow for linting, contracts, and build
+- **2026-08-17**: feat(ui): add notifications tray for proposal updates and new messages
+- **2026-08-18**: fix(backend): resolve concurrent swipe event race condition
+- **2026-08-19**: perf(frontend): virtualize gig card stack for 60fps mobile animation
+- **2026-08-25**: feat(dao): implement community dispute jury selection and voting portal
+- **2026-08-25**: docs: document prompt engineering guidelines and system architecture
+- **2026-08-28**: feat(ui): add search and multi-criteria filters for gig discovery
+- **2026-09-05**: feat(backend): add redis caching for high-frequency candidate feed
+- **2026-09-17**: test(contracts): test emergency timeout unlock when client is unresponsive
+- **2026-09-18**: feat(ui): build earnings analytics dashboard with crypto-to-fiat estimates
+- **2026-09-19**: docs: add comprehensive production deployment manual and env guide
+- **2026-09-20**: fix(auth): sanitize JWT token expiration and refresh token rotation
+- **2026-09-20**: perf(backend): optimize SQL query indexing for candidate matching
+- **2026-09-24**: feat(ui): add responsive mobile bottom navigation and touch gestures
+- **2026-09-25**: style: refine card flip animation showing gig scope and deliverables
+- **2026-09-28**: docs: add contributing standards and pull request review checklist
+- **2026-09-29**: ci: add automated smart contract gas reporting to CI pipeline
+- **2026-09-30**: feat(security): implement strict input sanitization and rate limits
+- **2026-10-01**: feat(ui): add rating and feedback review modal upon project completion
+- **2026-10-10**: test: add mock tests for wallet provider failure and recovery
+- **2026-10-10**: refactor(contracts): optimize bytecode size to stay well within limit
+- **2026-10-12**: feat(ui): add dark and light theme toggle support
+- **2026-10-15**: fix: resolve mobile keyboard viewport distortion on chat interface
+- **2026-10-17**: perf: compress public images and lazy load non-critical component trees
+- **2026-10-19**: docs: update README with high-res screenshots, features, and setup
+- **2026-10-21**: refactor: clean up console debug logs and dead development artifacts
+- **2026-10-23**: chore: complete hardening, security audit fixes, and launch prep
+- **2026-10-26**: chore: release v1.0.0 official SwipeDAO production launch
+- **2026-05-06**: chore: scaffold SwipeDAO monorepo with backend, contracts, and frontend
