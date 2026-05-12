@@ -57,3 +57,4 @@
 - **2026-10-26**: chore: release v1.0.0 official SwipeDAO production launch
 - **2026-05-06**: chore: scaffold SwipeDAO monorepo with backend, contracts, and frontend
 - **2026-05-07**: feat(config): configure environment variables and build pipelines
+- **2026-05-12**: feat(contracts): design SwipeDAO escrow and milestone payment contract
