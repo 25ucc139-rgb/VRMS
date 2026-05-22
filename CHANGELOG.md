@@ -60,3 +60,4 @@
 - **2026-05-12**: feat(contracts): design SwipeDAO escrow and milestone payment contract
 - **2026-05-12**: feat(contracts): implement gig deposit lockup and client release logic
 - **2026-05-15**: feat(contracts): add decentralized dispute arbitration mechanism
+- **2026-05-22**: test(contracts): write hardhat tests for escrow funds safety and release
