@@ -64,3 +64,4 @@
 - **2026-05-24**: test(contracts): verify dispute resolution voting and stake slashing
 - **2026-05-25**: feat(backend): initialize express REST API with typescript and routes
 - **2026-05-25**: feat(backend): configure PostgreSQL schema with Prisma ORM
+- **2026-05-31**: feat(auth): implement web3 wallet signature authentication and JWT tokens
