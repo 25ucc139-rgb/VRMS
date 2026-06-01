@@ -65,3 +65,4 @@
 - **2026-05-25**: feat(backend): initialize express REST API with typescript and routes
 - **2026-05-25**: feat(backend): configure PostgreSQL schema with Prisma ORM
 - **2026-05-31**: feat(auth): implement web3 wallet signature authentication and JWT tokens
+- **2026-06-01**: feat(auth): add Google OAuth login integration for dual-role users
