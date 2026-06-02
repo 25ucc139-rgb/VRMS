@@ -66,3 +66,4 @@
 - **2026-05-25**: feat(backend): configure PostgreSQL schema with Prisma ORM
 - **2026-05-31**: feat(auth): implement web3 wallet signature authentication and JWT tokens
 - **2026-06-01**: feat(auth): add Google OAuth login integration for dual-role users
+- **2026-06-02**: feat(frontend): setup modern next.js / react application framework
