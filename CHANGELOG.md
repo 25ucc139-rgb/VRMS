@@ -67,3 +67,4 @@
 - **2026-05-31**: feat(auth): implement web3 wallet signature authentication and JWT tokens
 - **2026-06-01**: feat(auth): add Google OAuth login integration for dual-role users
 - **2026-06-02**: feat(frontend): setup modern next.js / react application framework
+- **2026-06-11**: feat(ui): design role selection onboarding (Client vs Freelancer)
