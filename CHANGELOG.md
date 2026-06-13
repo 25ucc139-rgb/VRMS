@@ -68,3 +68,4 @@
 - **2026-06-01**: feat(auth): add Google OAuth login integration for dual-role users
 - **2026-06-02**: feat(frontend): setup modern next.js / react application framework
 - **2026-06-11**: feat(ui): design role selection onboarding (Client vs Freelancer)
+- **2026-06-13**: feat(ui): build revolutionary swipeable gig card stack with framer-motion
