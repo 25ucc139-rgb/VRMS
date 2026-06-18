@@ -71,3 +71,4 @@
 - **2026-06-13**: feat(ui): build revolutionary swipeable gig card stack with framer-motion
 - **2026-06-15**: feat(ui): add smooth gesture controls: Swipe right to apply, left to pass
 - **2026-06-16**: feat(ui): design freelancer talent profile card with portfolio showcase
+- **2026-06-18**: feat(backend): add gig recommendation algorithm based on skill tags
