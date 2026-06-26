@@ -74,3 +74,4 @@
 - **2026-06-18**: feat(backend): add gig recommendation algorithm based on skill tags
 - **2026-06-22**: feat(chat): implement real-time encrypted messaging between client and talent
 - **2026-06-24**: test(backend): add integration tests for gig posting and matching pipeline
+- **2026-06-26**: docs: publish SwipeDAO autonomous gig economy whitepaper and roadmap
