@@ -76,3 +76,4 @@
 - **2026-06-24**: test(backend): add integration tests for gig posting and matching pipeline
 - **2026-06-26**: docs: publish SwipeDAO autonomous gig economy whitepaper and roadmap
 - **2026-06-26**: feat(escrow): integrate smart contract milestone locking into gig checkout
+- **2026-06-29**: feat(ui): build interactive milestone tracker with delivery submission
