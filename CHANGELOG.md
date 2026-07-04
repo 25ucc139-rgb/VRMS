@@ -78,3 +78,4 @@
 - **2026-06-26**: feat(escrow): integrate smart contract milestone locking into gig checkout
 - **2026-06-29**: feat(ui): build interactive milestone tracker with delivery submission
 - **2026-06-29**: feat(ui): add file attachment upload with IPFS distributed storage
+- **2026-07-04**: fix(contracts): ensure strict reentrancy prevention in escrow payouts
