@@ -81,3 +81,4 @@
 - **2026-07-04**: fix(contracts): ensure strict reentrancy prevention in escrow payouts
 - **2026-07-04**: feat(backend): implement reputation scoring and on-chain badge minting
 - **2026-07-11**: style(ui): apply sleek Web3 dark aesthetic with vibrant gradient accents
+- **2026-07-16**: feat(ui): add comprehensive settings manual and platform user guide
