@@ -1,0 +1,10 @@
+# ci.yml
+
+Generated as part of VRMS architecture.
+
+Updated on July 20, 2026 by Chetanay agarwal.
+
+### Details
+
+- Component: `.github/workflows/ci.yml`
+- Purpose: ci: configure GitHub Actions workflow for linting, contracts, and build
