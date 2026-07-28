@@ -86,3 +86,4 @@
 - **2026-07-19**: test: add end-to-end tests for full gig lifecycle from match to payment
 - **2026-07-20**: ci: configure GitHub Actions workflow for linting, contracts, and build
 - **2026-07-22**: feat(ui): add notifications tray for proposal updates and new messages
+- **2026-07-28**: fix(backend): resolve concurrent swipe event race condition
