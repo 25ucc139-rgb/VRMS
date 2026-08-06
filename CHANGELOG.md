@@ -87,3 +87,4 @@
 - **2026-07-20**: ci: configure GitHub Actions workflow for linting, contracts, and build
 - **2026-07-22**: feat(ui): add notifications tray for proposal updates and new messages
 - **2026-07-28**: fix(backend): resolve concurrent swipe event race condition
+- **2026-08-06**: perf(frontend): virtualize gig card stack for 60fps mobile animation
