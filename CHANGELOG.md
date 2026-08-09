@@ -88,3 +88,4 @@
 - **2026-07-22**: feat(ui): add notifications tray for proposal updates and new messages
 - **2026-07-28**: fix(backend): resolve concurrent swipe event race condition
 - **2026-08-06**: perf(frontend): virtualize gig card stack for 60fps mobile animation
+- **2026-08-09**: feat(dao): implement community dispute jury selection and voting portal
