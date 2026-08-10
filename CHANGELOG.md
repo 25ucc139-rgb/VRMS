@@ -90,3 +90,4 @@
 - **2026-08-06**: perf(frontend): virtualize gig card stack for 60fps mobile animation
 - **2026-08-09**: feat(dao): implement community dispute jury selection and voting portal
 - **2026-08-09**: docs: document prompt engineering guidelines and system architecture
+- **2026-08-10**: feat(ui): add search and multi-criteria filters for gig discovery
