@@ -93,3 +93,4 @@
 - **2026-08-10**: feat(ui): add search and multi-criteria filters for gig discovery
 - **2026-08-11**: feat(backend): add redis caching for high-frequency candidate feed
 - **2026-08-11**: test(contracts): test emergency timeout unlock when client is unresponsive
+- **2026-08-12**: feat(ui): build earnings analytics dashboard with crypto-to-fiat estimates
