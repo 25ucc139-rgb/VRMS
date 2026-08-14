@@ -94,3 +94,4 @@
 - **2026-08-11**: feat(backend): add redis caching for high-frequency candidate feed
 - **2026-08-11**: test(contracts): test emergency timeout unlock when client is unresponsive
 - **2026-08-12**: feat(ui): build earnings analytics dashboard with crypto-to-fiat estimates
+- **2026-08-14**: docs: add comprehensive production deployment manual and env guide
