@@ -95,3 +95,4 @@
 - **2026-08-11**: test(contracts): test emergency timeout unlock when client is unresponsive
 - **2026-08-12**: feat(ui): build earnings analytics dashboard with crypto-to-fiat estimates
 - **2026-08-14**: docs: add comprehensive production deployment manual and env guide
+- **2026-08-20**: fix(auth): sanitize JWT token expiration and refresh token rotation
