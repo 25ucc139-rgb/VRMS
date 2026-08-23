@@ -96,3 +96,4 @@
 - **2026-08-12**: feat(ui): build earnings analytics dashboard with crypto-to-fiat estimates
 - **2026-08-14**: docs: add comprehensive production deployment manual and env guide
 - **2026-08-20**: fix(auth): sanitize JWT token expiration and refresh token rotation
+- **2026-08-23**: perf(backend): optimize SQL query indexing for candidate matching
