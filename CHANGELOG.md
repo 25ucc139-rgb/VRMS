@@ -99,3 +99,4 @@
 - **2026-08-23**: perf(backend): optimize SQL query indexing for candidate matching
 - **2026-08-27**: feat(ui): add responsive mobile bottom navigation and touch gestures
 - **2026-09-09**: style: refine card flip animation showing gig scope and deliverables
+- **2026-09-10**: docs: add contributing standards and pull request review checklist
