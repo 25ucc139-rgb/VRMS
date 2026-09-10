@@ -8,3 +8,5 @@ Updated on July 20, 2026 by Chetanay agarwal.
 
 - Component: `.github/workflows/ci.yml`
 - Purpose: ci: configure GitHub Actions workflow for linting, contracts, and build
+
+<!-- Revision: 2026-09-10 - ci: add automated smart contract gas reporting to CI pipeline -->
