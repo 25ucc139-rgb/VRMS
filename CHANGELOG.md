@@ -101,3 +101,4 @@
 - **2026-09-09**: style: refine card flip animation showing gig scope and deliverables
 - **2026-09-10**: docs: add contributing standards and pull request review checklist
 - **2026-09-10**: ci: add automated smart contract gas reporting to CI pipeline
+- **2026-09-13**: feat(security): implement strict input sanitization and rate limits
