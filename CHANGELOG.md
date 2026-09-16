@@ -102,3 +102,4 @@
 - **2026-09-10**: docs: add contributing standards and pull request review checklist
 - **2026-09-10**: ci: add automated smart contract gas reporting to CI pipeline
 - **2026-09-13**: feat(security): implement strict input sanitization and rate limits
+- **2026-09-16**: feat(ui): add rating and feedback review modal upon project completion
