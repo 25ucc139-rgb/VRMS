@@ -104,3 +104,4 @@
 - **2026-09-13**: feat(security): implement strict input sanitization and rate limits
 - **2026-09-16**: feat(ui): add rating and feedback review modal upon project completion
 - **2026-09-18**: test: add mock tests for wallet provider failure and recovery
+- **2026-09-18**: refactor(contracts): optimize bytecode size to stay well within limit
